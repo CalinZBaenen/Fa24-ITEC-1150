@@ -1,0 +1,67 @@
+{
+	"base_options": [
+		{
+			"category": "crust",
+			"options": {
+				"handtossed": 1.75,
+				"deep-dish": 2.00,
+				"thin": 1.50
+			}
+		},
+		{
+			"category": "sauce",
+			"options": {
+				"\"Traditional Red\"": {
+					"description": "Tomato paste.",
+					"price": 0.50
+				},
+				"BBQ sauce": 1.00,
+				"olive oil": 0.50,
+				"pesto": 1.00
+			}
+		},
+		{
+			"comboable": true,
+			"category": "cheese",
+			"options": {
+				"three-cheese blend": {
+					"description": "A mix ov fresh mozzarella, provolone, and cheddar.",
+					"price": 0.50
+				},
+				"mozzarella": 0.50,
+				"parmesan": 0.50
+			}
+		}
+	],
+	"toppings": {
+		"grilled chicken": 2.50,
+		"italian sausage": 2.00,
+		"polish sausage": 2.00,
+		"fried chicken": 2.50,
+		"green peppers": 2.00,
+		"black olives": 1.00,
+		"green olives": 1.00,
+		"jalapeños": 1.50,
+		"mushrooms": 1.00,
+		"pepperoni": 1.00,
+		"pineapple": 1.00,
+		"onions": 1.00,
+		"salmon": 1.50
+	},
+	
+	"sides": [
+		{
+			"category": "drinks",
+			"options": {"rootbeer": 1.00, "creamsoda": 1.00, "mead": 0.50},
+			"sizes": {"S": 0.50, "M": 1.00, "L": 1.50}
+		},
+		{
+			"category": "wings",
+			"options": {
+				"rotisserie-cooked chicken": 2.50,
+				"fried chicken": 2.50
+			},
+			"sizes": {"4-piece": 0.50, "8-piece": 1.50, "16-piece": 2.50}
+		}
+	]
+}
