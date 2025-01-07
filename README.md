@@ -16,7 +16,7 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
 
     ╭──────────────────────────────────────────────────────────────╮
     │ First Day of Class  :  -/-        [1 submission,  1 file]    │
-    │ 	header.py                                                  │
+    │   header.py                                                  │
     │                                                              │
     │ Available:           24/08/25  @  00:01                      │
     │ ---------------------------------------                      │
@@ -24,11 +24,11 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 1.1       :  10/10      [3 submissions,  9 files]  │
-    │ 	avg_grade.py                                               │
-    │ 	wage_calc.py  (2)                                          │
-    │ 	bus_fare.py   (2)                                          │
-    │ 	albums.py                                                  │
-    │ 	/*  + 2 screenshots  &  1 hidden file  */                  │
+    │   avg_grade.py                                               │
+    │   wage_calc.py  (2)                                          │
+    │   bus_fare.py   (2)                                          │
+    │   albums.py                                                  │
+    │   /*  + 2 screenshots  &  1 hidden file  */                  │
     │                                                              │
     │ Available:           24/09/03  @  00:01                      │
     │ Due Date:            24/09/10  @  00:00                      │
@@ -40,15 +40,15 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 1.2       :  10/10      [2 submissions,  7 files]  │
-    │ 	math_functions.py                                          │
-    │ 	coffee_sales.py    (2)                                     │
-    │ 	sales_tax.py                                               │
-    │ 	gas_calc.py                                                │
-    │ 	area.py                                                    │
-    │ 	/*                                                         │
-    │ 	*   + 1 bonus file:                                        │
-    │ 	*       area_but_better.py                                 │
-    │ 	*/                                                         │
+    │   math_functions.py                                          │
+    │   coffee_sales.py    (2)                                     │
+    │   sales_tax.py                                               │
+    │   gas_calc.py                                                │
+    │   area.py                                                    │
+    │   /*                                                         │
+    │   *   + 1 bonus file:                                        │
+    │   *       area_but_better.py                                 │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/09/10  @  00:01                      │
     │ Due Date:            24/09/17  @  00:00                      │
@@ -59,11 +59,11 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 2.1       :  10/10      [2 submissions,  6 files]  │
-    │ 	penny_counter.py                                           │
-    │ 	coin_counter.py                                            │
-    │ 	color_mixer.py                                             │
-    │ 	apollo.py                                                  │
-    │ 	grade.py          (2)                                      │
+    │   penny_counter.py                                           │
+    │   coin_counter.py                                            │
+    │   color_mixer.py                                             │
+    │   apollo.py                                                  │
+    │   grade.py          (2)                                      │
     │                                                              │
     │ Available:           24/09/17  @  00:01                      │
     │ Due Date:            24/09/24  @  00:00                      │
@@ -74,11 +74,11 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 2.2       :  10/10      [2 submissions,  6 files]  │
-    │ 	avg_rainfall.py                                            │
-    │ 	quiz_avg.py                                                │
-    │ 	textbook.py                                                │
-    │ 	loop-1.py                                                  │
-    │ 	loop-2.py        (2)                                       │
+    │   avg_rainfall.py                                            │
+    │   quiz_avg.py                                                │
+    │   textbook.py                                                │
+    │   loop-1.py                                                  │
+    │   loop-2.py        (2)                                       │
     │                                                              │
     │ Available:           24/09/24  @  00:01                      │
     │ Due Date:            24/10/01  @  00:00                      │
@@ -89,13 +89,13 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 3.0       :  10/10      [3 submissions,  10 files] │
-    │ 	avg_rainfall.py  (3)                                       │
-    │ 	quiz_avg.py                                                │
-    │ 	loop-2.py        (3)                                       │
-    │ 	/*                                                         │
-    │ 	*   + 1 supplementary file:                                │
-    │ 	*       ui.py  (3)                                         │
-    │ 	*/                                                         │
+    │   avg_rainfall.py  (3)                                       │
+    │   quiz_avg.py                                                │
+    │   loop-2.py        (3)                                       │
+    │   /*                                                         │
+    │   *   + 1 supplementary file:                                │
+    │   *       ui.py  (3)                                         │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/10/01  @  00:01                      │
     │ Due Date:            24/10/08  @  00:00                      │
@@ -107,15 +107,15 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 4.0       :  10/10      [3 submissions,  8 files]  │
-    │ 	random_num_list.py  (3)                                    │
-    │ 	book_list.py        (2)                                    │
-    │ 	/*                                                         │
-    │ 	*   + 1 adapted file:                                      │
-    │ 	*       book_list_using_lists.py                           │
-    │ 	*                                                          │
-    │ 	*   + 1 supplementary file:                                │
-    │ 	*       ui.py  (2)                                         │
-    │ 	*/                                                         │
+    │   random_num_list.py  (3)                                    │
+    │   book_list.py        (2)                                    │
+    │   /*                                                         │
+    │   *   + 1 adapted file:                                      │
+    │   *       book_list_using_lists.py                           │
+    │   *                                                          │
+    │   *   + 1 supplementary file:                                │
+    │   *       ui.py  (2)                                         │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/10/08  @  00:01                      │
     │ Due Date:            24/10/15  @  00:00                      │
@@ -127,13 +127,13 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 5.0       :  10/10      [2 submissions,  5 files]  │
-    │ 	username_fullname.py  (2)                                  │
-    │ 	reading_list.py                                            │
-    │ 	/*                                                         │
-    │ 	*   + 2 supplementary files:                               │
-    │ 	*       cmdlib.py                                          │
-    │ 	*       ui.py                                              │
-    │ 	*/                                                         │
+    │   username_fullname.py  (2)                                  │
+    │   reading_list.py                                            │
+    │   /*                                                         │
+    │   *   + 2 supplementary files:                               │
+    │   *       cmdlib.py                                          │
+    │   *       ui.py                                              │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/10/15  @  00:01                      │
     │ Due Date:            24/10/22  @  00:00                      │
@@ -144,12 +144,12 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 6.0       :  10/10      [1 submission,   3 files]  │
-    │ 	feedback_collector.py                                      │
-    │ 	text_validator.py                                          │
-    │ 	/*                                                         │
-    │ 	*   + 1 supplementary file:                                │
-    │ 	*       ui.py  (2)                                         │
-    │ 	*/                                                         │
+    │   feedback_collector.py                                      │
+    │   text_validator.py                                          │
+    │   /*                                                         │
+    │   *   + 1 supplementary file:                                │
+    │   *       ui.py  (2)                                         │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/10/22  @  00:01                      │
     │ Due Date:            24/10/29  @  00:00                      │
@@ -159,8 +159,8 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 7.0       :  10/10      [2 submissions,  3 files]  │
-    │ 	float_validation.py  (2)                                   │
-    │ 	fullname_regex.py                                          │
+    │   float_validation.py  (2)                                   │
+    │   fullname_regex.py                                          │
     │                                                              │
     │ Available:           24/10/29  @  00:01                      │
     │ Due Date:            24/11/05  @  00:00                      │
@@ -171,8 +171,8 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 8.0       :  10/10      [2 submissions,  5 files]  │
-    │ 	sandwich_maker.py  (2)                                     │
-    │ 	book_list.py       (3)                                     │
+    │   sandwich_maker.py  (2)                                     │
+    │   book_list.py       (3)                                     │
     │                                                              │
     │ Available:           24/11/05  @  00:01                      │
     │ Due Date:            24/11/12  @  00:00                      │
@@ -184,17 +184,17 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 9.0       :  10/10      [3 submissions,  8 files]  │
-    │ 	data_summary.py                                            │
-    │ 	user_manager.py  (3)                                       │
-    │ 	/*                                                         │
-    │ 	*   + 2 supplementary files:                               │
-    │ 	*       ch_9_lab_data.txt                                  │
-    │ 	*       table.py                                           │
-    │ 	*                                                          │
-    │ 	*   + 2 generated files:                                   │
-    │ 	*       summary.txt                                        │
-    │ 	*       user_db.txt                                        │
-    │ 	*/                                                         │
+    │   data_summary.py                                            │
+    │   user_manager.py  (3)                                       │
+    │   /*                                                         │
+    │   *   + 2 supplementary files:                               │
+    │   *       ch_9_lab_data.txt                                  │
+    │   *       table.py                                           │
+    │   *                                                          │
+    │   *   + 2 generated files:                                   │
+    │   *       summary.txt                                        │
+    │   *       user_db.txt                                        │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/11/12  @  00:01                      │
     │ Due Date:            24/11/19  @  00:00                      │
@@ -206,8 +206,8 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 12.0      :  10/10      [3 submissions,  5 files]  │
-    │ 	data_download.py  (2)                                      │
-    │ 	weather_data.py   (3)                                      │
+    │   data_download.py  (2)                                      │
+    │   weather_data.py   (3)                                      │
     │                                                              │
     │ Available:           24/11/19  @  00:01                      │
     │ Due Date:            24/11/26  @  00:00                      │
@@ -219,15 +219,15 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Class Lab 16.0      :  10/10      [3 submissions,  10 files] │
-    │ 	data_collection.py  (3)                                    │
-    │ 	weather_json.py     (3)                                    │
-    │ 	/*                                                         │
-    │ 	*   + 1 supplementary file:                                │
-    │ 	*       lab_16_forecast.json  (2)                          │
-    │ 	*                                                          │
-    │ 	*   + 1 generated file:                                    │
-    │ 	*       contacts.csv                                       │
-    │ 	*/                                                         │
+    │   data_collection.py  (3)                                    │
+    │   weather_json.py     (3)                                    │
+    │   /*                                                         │
+    │   *   + 1 supplementary file:                                │
+    │   *       lab_16_forecast.json  (2)                          │
+    │   *                                                          │
+    │   *   + 1 generated file:                                    │
+    │   *       contacts.csv                                       │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/12/03  @  00:01                      │
     │ Due Date:            24/12/10  @  00:00                      │
@@ -239,14 +239,14 @@ The grades I earned in ITEC 1150-85 Introduction to Computer Programming with Py
     ╰──────────────────────────────────────────────────────────────╯
     ╭──────────────────────────────────────────────────────────────╮
     │ Final Project       :  100/100    [3 submissions,  5 files]  │
-    │ 	final.py  (3)                                              │
-    │ 	/*                                                         │
-    │ 	*   + 1 additional file:                                   │
-    │ 	*       pizzalib.py                                        │
-    │ 	*                                                          │
-    │ 	*   + 1 bonus file:                                        │
-    │ 	*       ingredients.json                                   │
-    │ 	*/                                                         │
+    │   final.py  (3)                                              │
+    │   /*                                                         │
+    │   *   + 1 additional file:                                   │
+    │   *       pizzalib.py                                        │
+    │   *                                                          │
+    │   *   + 1 bonus file:                                        │
+    │   *       ingredients.json                                   │
+    │   */                                                         │
     │                                                              │
     │ Available:           24/12/10  @  00:01                      │
     │ Due Date:            24/12/20  @  23:31                      │
@@ -261,7 +261,7 @@ Where each box follows the given format:
 
     ╭──────────────────────────────────────────────────────────────╮
     │ ASSIGNMENT NAME     :  X/Y        [X submissions,  Y files]  │
-    │ 	file.py                                                    │
+    │   file.py                                                    │
     │                                                              │
     │ Available:           YY/MM/DD  @  HH:MM                      │
     │ Due Date:            YY/MM/DD  @  HH:MM                      │
